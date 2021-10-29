@@ -1,0 +1,79 @@
+header {
+	background: #000000;
+	padding: 20px 0px;
+}
+
+.cabecario2 {
+	position: relative;
+	width: 1300px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 100px;
+	right: 10%;
+}
+ nav li {
+ 	display: inline;
+ 	margin: 0 0 0 10px;
+ }
+
+ nav a {
+ 	text-transform: uppercase;
+ 	color: white;
+ 	font-weight: bold;
+ 	font-size: 21px;
+ 	text-decoration: none;
+ }
+
+#sobrenosmain {
+	width: 100%;
+}
+
+
+.cabecario {
+	position: relative;
+}
+
+
+.sobrenos {
+	position: relative;
+	left: 330px;
+	color: white;
+	font-size: 55px;
+}
+
+.cabecario li {
+	position: relative;
+	font-size: 27px;
+	top: 310px;
+	left: 215px;
+
+}
+
+.ipsum {
+	width: 48%;
+}
+
+footer {
+	background: url(bg.jpg);
+}
+
+.info li {
+	text-align: center;
+	color: white;
+	top: 1250px;
+	right: 27%;
+	padding-top: 25px;
+}
+
+footer h3 {
+	text-align: right;
+}
+.copyright {
+	text-align: center;
+	color: white;
+	font-size: 13px;
+	padding-bottom: 25px;
+}
